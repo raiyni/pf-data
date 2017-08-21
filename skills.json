@@ -1,0 +1,254 @@
+[
+  {
+    "Skill": "Acrobatics",
+    "Trained Only": "",
+    "Ability": "Dex",
+    "Armor Penalty": "x"
+  },
+  {
+    "Skill": "Appraise",
+    "Trained Only": "",
+    "Ability": "Int",
+    "Armor Penalty": ""
+  },
+  {
+    "Skill": "Bluff",
+    "Trained Only": "",
+    "Ability": "Cha",
+    "Armor Penalty": ""
+  },
+  {
+    "Skill": "Climb",
+    "Trained Only": "",
+    "Ability": "Str",
+    "Armor Penalty": "x"
+  },
+  {
+    "Skill": "Craft:",
+    "Trained Only": "",
+    "Ability": "Int",
+    "Armor Penalty": ""
+  },
+  {
+    "Skill": "Craft:",
+    "Trained Only": "",
+    "Ability": "Int",
+    "Armor Penalty": ""
+  },
+  {
+    "Skill": "Diplomacy",
+    "Trained Only": "",
+    "Ability": "Cha",
+    "Armor Penalty": ""
+  },
+  {
+    "Skill": "Disable Device",
+    "Trained Only": "x",
+    "Ability": "Dex",
+    "Armor Penalty": "x"
+  },
+  {
+    "Skill": "Disguise",
+    "Trained Only": "",
+    "Ability": "Cha",
+    "Armor Penalty": ""
+  },
+  {
+    "Skill": "Escape Artist",
+    "Trained Only": "",
+    "Ability": "Dex",
+    "Armor Penalty": "x"
+  },
+  {
+    "Skill": "Fly",
+    "Trained Only": "",
+    "Ability": "Dex",
+    "Armor Penalty": "x"
+  },
+  {
+    "Skill": "Handle Animal",
+    "Trained Only": "x",
+    "Ability": "Cha",
+    "Armor Penalty": ""
+  },
+  {
+    "Skill": "Heal",
+    "Trained Only": "",
+    "Ability": "Wis",
+    "Armor Penalty": ""
+  },
+  {
+    "Skill": "Intimidate",
+    "Trained Only": "",
+    "Ability": "Cha",
+    "Armor Penalty": ""
+  },
+  {
+    "Skill": "Kn. Arcana",
+    "Trained Only": "x",
+    "Ability": "Int",
+    "Armor Penalty": ""
+  },
+  {
+    "Skill": "Kn. Dungeoneering",
+    "Trained Only": "x",
+    "Ability": "Int",
+    "Armor Penalty": ""
+  },
+  {
+    "Skill": "Kn. Engineering",
+    "Trained Only": "x",
+    "Ability": "Int",
+    "Armor Penalty": ""
+  },
+  {
+    "Skill": "Kn. Geography",
+    "Trained Only": "x",
+    "Ability": "Int",
+    "Armor Penalty": ""
+  },
+  {
+    "Skill": "Kn. History",
+    "Trained Only": "x",
+    "Ability": "Int",
+    "Armor Penalty": ""
+  },
+  {
+    "Skill": "Kn. Local",
+    "Trained Only": "x",
+    "Ability": "Int",
+    "Armor Penalty": ""
+  },
+  {
+    "Skill": "Kn. Nature",
+    "Trained Only": "x",
+    "Ability": "Int",
+    "Armor Penalty": ""
+  },
+  {
+    "Skill": "Kn. Nobility",
+    "Trained Only": "x",
+    "Ability": "Int",
+    "Armor Penalty": ""
+  },
+  {
+    "Skill": "Kn. Planes",
+    "Trained Only": "x",
+    "Ability": "Int",
+    "Armor Penalty": ""
+  },
+  {
+    "Skill": "Kn. Religion",
+    "Trained Only": "x",
+    "Ability": "Int",
+    "Armor Penalty": ""
+  },
+  {
+    "Skill": "Linguistics",
+    "Trained Only": "x",
+    "Ability": "Int",
+    "Armor Penalty": ""
+  },
+  {
+    "Skill": "Perception",
+    "Trained Only": "",
+    "Ability": "Wis",
+    "Armor Penalty": ""
+  },
+  {
+    "Skill": "Perform:",
+    "Trained Only": "",
+    "Ability": "Cha",
+    "Armor Penalty": ""
+  },
+  {
+    "Skill": "Perform:",
+    "Trained Only": "",
+    "Ability": "Cha",
+    "Armor Penalty": ""
+  },
+  {
+    "Skill": "Prof:",
+    "Trained Only": "x",
+    "Ability": "Wis",
+    "Armor Penalty": ""
+  },
+  {
+    "Skill": "Prof:",
+    "Trained Only": "x",
+    "Ability": "Wis",
+    "Armor Penalty": ""
+  },
+  {
+    "Skill": "Ride",
+    "Trained Only": "",
+    "Ability": "Dex",
+    "Armor Penalty": "x"
+  },
+  {
+    "Skill": "Sense Motive",
+    "Trained Only": "",
+    "Ability": "Wis",
+    "Armor Penalty": ""
+  },
+  {
+    "Skill": "Sleight of Hand",
+    "Trained Only": "x",
+    "Ability": "Dex",
+    "Armor Penalty": "x"
+  },
+  {
+    "Skill": "Spellcraft",
+    "Trained Only": "x",
+    "Ability": "Int",
+    "Armor Penalty": ""
+  },
+  {
+    "Skill": "Stealth",
+    "Trained Only": "",
+    "Ability": "Dex",
+    "Armor Penalty": "x"
+  },
+  {
+    "Skill": "Survival",
+    "Trained Only": "",
+    "Ability": "Wis",
+    "Armor Penalty": ""
+  },
+  {
+    "Skill": "Swim",
+    "Trained Only": "",
+    "Ability": "Str",
+    "Armor Penalty": "x"
+  },
+  {
+    "Skill": "Use Magic Device",
+    "Trained Only": "x",
+    "Ability": "Cha",
+    "Armor Penalty": ""
+  },
+  {
+    "Skill": "(Custom Skill)",
+    "Trained Only": "",
+    "Ability": "",
+    "Armor Penalty": ""
+  },
+  {
+    "Skill": "(Custom Skill)",
+    "Trained Only": "",
+    "Ability": "",
+    "Armor Penalty": ""
+  },
+  {
+    "Skill": "Artistry:",
+    "Trained Only": "",
+    "Ability": "Int",
+    "Armor Penalty": ""
+  },
+  {
+    "Skill": "Lore:",
+    "Trained Only": "x",
+    "Ability": "Int",
+    "Armor Penalty": "X"
+  }
+]
