@@ -1,254 +1,230 @@
-[
-  {
-    "Skill": "Acrobatics",
-    "Trained Only": "",
-    "Ability": "Dex",
-    "Armor Penalty": "x"
+{
+  "Acrobatics": {
+    "name": "Acrobatics",
+    "ability": "dex",
+    "armorPenalty": true,
+    "trainedOnly": false
   },
-  {
-    "Skill": "Appraise",
-    "Trained Only": "",
-    "Ability": "Int",
-    "Armor Penalty": ""
+  "Appraise": {
+    "name": "Appraise",
+    "ability": "int",
+    "armorPenalty": false,
+    "trainedOnly": false
   },
-  {
-    "Skill": "Bluff",
-    "Trained Only": "",
-    "Ability": "Cha",
-    "Armor Penalty": ""
+  "Bluff": {
+    "name": "Bluff",
+    "ability": "cha",
+    "armorPenalty": false,
+    "trainedOnly": false
   },
-  {
-    "Skill": "Climb",
-    "Trained Only": "",
-    "Ability": "Str",
-    "Armor Penalty": "x"
+  "Climb": {
+    "name": "Climb",
+    "ability": "str",
+    "armorPenalty": true,
+    "trainedOnly": false
   },
-  {
-    "Skill": "Craft:",
-    "Trained Only": "",
-    "Ability": "Int",
-    "Armor Penalty": ""
+  "Craft:": {
+    "name": "Craft:",
+    "ability": "int",
+    "armorPenalty": false,
+    "trainedOnly": false
   },
-  {
-    "Skill": "Craft:",
-    "Trained Only": "",
-    "Ability": "Int",
-    "Armor Penalty": ""
+  "Diplomacy": {
+    "name": "Diplomacy",
+    "ability": "cha",
+    "armorPenalty": false,
+    "trainedOnly": false
   },
-  {
-    "Skill": "Diplomacy",
-    "Trained Only": "",
-    "Ability": "Cha",
-    "Armor Penalty": ""
+  "Disable Device": {
+    "name": "Disable Device",
+    "ability": "dex",
+    "armorPenalty": true,
+    "trainedOnly": true
   },
-  {
-    "Skill": "Disable Device",
-    "Trained Only": "x",
-    "Ability": "Dex",
-    "Armor Penalty": "x"
+  "Disguise": {
+    "name": "Disguise",
+    "ability": "cha",
+    "armorPenalty": false,
+    "trainedOnly": false
   },
-  {
-    "Skill": "Disguise",
-    "Trained Only": "",
-    "Ability": "Cha",
-    "Armor Penalty": ""
+  "Escape Artist": {
+    "name": "Escape Artist",
+    "ability": "dex",
+    "armorPenalty": true,
+    "trainedOnly": false
   },
-  {
-    "Skill": "Escape Artist",
-    "Trained Only": "",
-    "Ability": "Dex",
-    "Armor Penalty": "x"
+  "Fly": {
+    "name": "Fly",
+    "ability": "dex",
+    "armorPenalty": true,
+    "trainedOnly": false
   },
-  {
-    "Skill": "Fly",
-    "Trained Only": "",
-    "Ability": "Dex",
-    "Armor Penalty": "x"
+  "Handle Animal": {
+    "name": "Handle Animal",
+    "ability": "cha",
+    "armorPenalty": false,
+    "trainedOnly": true
   },
-  {
-    "Skill": "Handle Animal",
-    "Trained Only": "x",
-    "Ability": "Cha",
-    "Armor Penalty": ""
+  "Heal": {
+    "name": "Heal",
+    "ability": "wis",
+    "armorPenalty": false,
+    "trainedOnly": false
   },
-  {
-    "Skill": "Heal",
-    "Trained Only": "",
-    "Ability": "Wis",
-    "Armor Penalty": ""
+  "Intimidate": {
+    "name": "Intimidate",
+    "ability": "cha",
+    "armorPenalty": false,
+    "trainedOnly": false
   },
-  {
-    "Skill": "Intimidate",
-    "Trained Only": "",
-    "Ability": "Cha",
-    "Armor Penalty": ""
+  "Kn. Arcana": {
+    "name": "Kn. Arcana",
+    "ability": "int",
+    "armorPenalty": false,
+    "trainedOnly": true
   },
-  {
-    "Skill": "Kn. Arcana",
-    "Trained Only": "x",
-    "Ability": "Int",
-    "Armor Penalty": ""
+  "Kn. Dungeoneering": {
+    "name": "Kn. Dungeoneering",
+    "ability": "int",
+    "armorPenalty": false,
+    "trainedOnly": true
   },
-  {
-    "Skill": "Kn. Dungeoneering",
-    "Trained Only": "x",
-    "Ability": "Int",
-    "Armor Penalty": ""
+  "Kn. Engineering": {
+    "name": "Kn. Engineering",
+    "ability": "int",
+    "armorPenalty": false,
+    "trainedOnly": true
   },
-  {
-    "Skill": "Kn. Engineering",
-    "Trained Only": "x",
-    "Ability": "Int",
-    "Armor Penalty": ""
+  "Kn. Geography": {
+    "name": "Kn. Geography",
+    "ability": "int",
+    "armorPenalty": false,
+    "trainedOnly": true
   },
-  {
-    "Skill": "Kn. Geography",
-    "Trained Only": "x",
-    "Ability": "Int",
-    "Armor Penalty": ""
+  "Kn. History": {
+    "name": "Kn. History",
+    "ability": "int",
+    "armorPenalty": false,
+    "trainedOnly": true
   },
-  {
-    "Skill": "Kn. History",
-    "Trained Only": "x",
-    "Ability": "Int",
-    "Armor Penalty": ""
+  "Kn. Local": {
+    "name": "Kn. Local",
+    "ability": "int",
+    "armorPenalty": false,
+    "trainedOnly": true
   },
-  {
-    "Skill": "Kn. Local",
-    "Trained Only": "x",
-    "Ability": "Int",
-    "Armor Penalty": ""
+  "Kn. Nature": {
+    "name": "Kn. Nature",
+    "ability": "int",
+    "armorPenalty": false,
+    "trainedOnly": true
   },
-  {
-    "Skill": "Kn. Nature",
-    "Trained Only": "x",
-    "Ability": "Int",
-    "Armor Penalty": ""
+  "Kn. Nobility": {
+    "name": "Kn. Nobility",
+    "ability": "int",
+    "armorPenalty": false,
+    "trainedOnly": true
   },
-  {
-    "Skill": "Kn. Nobility",
-    "Trained Only": "x",
-    "Ability": "Int",
-    "Armor Penalty": ""
+  "Kn. Planes": {
+    "name": "Kn. Planes",
+    "ability": "int",
+    "armorPenalty": false,
+    "trainedOnly": true
   },
-  {
-    "Skill": "Kn. Planes",
-    "Trained Only": "x",
-    "Ability": "Int",
-    "Armor Penalty": ""
+  "Kn. Religion": {
+    "name": "Kn. Religion",
+    "ability": "int",
+    "armorPenalty": false,
+    "trainedOnly": true
   },
-  {
-    "Skill": "Kn. Religion",
-    "Trained Only": "x",
-    "Ability": "Int",
-    "Armor Penalty": ""
+  "Linguistics": {
+    "name": "Linguistics",
+    "ability": "int",
+    "armorPenalty": false,
+    "trainedOnly": true
   },
-  {
-    "Skill": "Linguistics",
-    "Trained Only": "x",
-    "Ability": "Int",
-    "Armor Penalty": ""
+  "Perception": {
+    "name": "Perception",
+    "ability": "wis",
+    "armorPenalty": false,
+    "trainedOnly": false
   },
-  {
-    "Skill": "Perception",
-    "Trained Only": "",
-    "Ability": "Wis",
-    "Armor Penalty": ""
+  "Perform:": {
+    "name": "Perform:",
+    "ability": "cha",
+    "armorPenalty": false,
+    "trainedOnly": false
   },
-  {
-    "Skill": "Perform:",
-    "Trained Only": "",
-    "Ability": "Cha",
-    "Armor Penalty": ""
+  "Prof:": {
+    "name": "Prof:",
+    "ability": "wis",
+    "armorPenalty": false,
+    "trainedOnly": true
   },
-  {
-    "Skill": "Perform:",
-    "Trained Only": "",
-    "Ability": "Cha",
-    "Armor Penalty": ""
+  "Ride": {
+    "name": "Ride",
+    "ability": "dex",
+    "armorPenalty": true,
+    "trainedOnly": false
   },
-  {
-    "Skill": "Prof:",
-    "Trained Only": "x",
-    "Ability": "Wis",
-    "Armor Penalty": ""
+  "Sense Motive": {
+    "name": "Sense Motive",
+    "ability": "wis",
+    "armorPenalty": false,
+    "trainedOnly": false
   },
-  {
-    "Skill": "Prof:",
-    "Trained Only": "x",
-    "Ability": "Wis",
-    "Armor Penalty": ""
+  "Sleight of Hand": {
+    "name": "Sleight of Hand",
+    "ability": "dex",
+    "armorPenalty": true,
+    "trainedOnly": true
   },
-  {
-    "Skill": "Ride",
-    "Trained Only": "",
-    "Ability": "Dex",
-    "Armor Penalty": "x"
+  "Spellcraft": {
+    "name": "Spellcraft",
+    "ability": "int",
+    "armorPenalty": false,
+    "trainedOnly": true
   },
-  {
-    "Skill": "Sense Motive",
-    "Trained Only": "",
-    "Ability": "Wis",
-    "Armor Penalty": ""
+  "Stealth": {
+    "name": "Stealth",
+    "ability": "dex",
+    "armorPenalty": true,
+    "trainedOnly": false
   },
-  {
-    "Skill": "Sleight of Hand",
-    "Trained Only": "x",
-    "Ability": "Dex",
-    "Armor Penalty": "x"
+  "Survival": {
+    "name": "Survival",
+    "ability": "wis",
+    "armorPenalty": false,
+    "trainedOnly": false
   },
-  {
-    "Skill": "Spellcraft",
-    "Trained Only": "x",
-    "Ability": "Int",
-    "Armor Penalty": ""
+  "Swim": {
+    "name": "Swim",
+    "ability": "str",
+    "armorPenalty": true,
+    "trainedOnly": false
   },
-  {
-    "Skill": "Stealth",
-    "Trained Only": "",
-    "Ability": "Dex",
-    "Armor Penalty": "x"
+  "Use Magic Device": {
+    "name": "Use Magic Device",
+    "ability": "cha",
+    "armorPenalty": false,
+    "trainedOnly": true
   },
-  {
-    "Skill": "Survival",
-    "Trained Only": "",
-    "Ability": "Wis",
-    "Armor Penalty": ""
+  "(Custom Skill)": {
+    "name": "(Custom Skill)",
+    "ability": "",
+    "armorPenalty": false,
+    "trainedOnly": false
   },
-  {
-    "Skill": "Swim",
-    "Trained Only": "",
-    "Ability": "Str",
-    "Armor Penalty": "x"
+  "Artistry:": {
+    "name": "Artistry:",
+    "ability": "int",
+    "armorPenalty": false,
+    "trainedOnly": false
   },
-  {
-    "Skill": "Use Magic Device",
-    "Trained Only": "x",
-    "Ability": "Cha",
-    "Armor Penalty": ""
-  },
-  {
-    "Skill": "(Custom Skill)",
-    "Trained Only": "",
-    "Ability": "",
-    "Armor Penalty": ""
-  },
-  {
-    "Skill": "(Custom Skill)",
-    "Trained Only": "",
-    "Ability": "",
-    "Armor Penalty": ""
-  },
-  {
-    "Skill": "Artistry:",
-    "Trained Only": "",
-    "Ability": "Int",
-    "Armor Penalty": ""
-  },
-  {
-    "Skill": "Lore:",
-    "Trained Only": "x",
-    "Ability": "Int",
-    "Armor Penalty": "X"
+  "Lore:": {
+    "name": "Lore:",
+    "ability": "int",
+    "armorPenalty": true,
+    "trainedOnly": true
   }
-]
+}
