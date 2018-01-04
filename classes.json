@@ -49,7 +49,7 @@
     "skills": 6,
     "spellcasting": "cha",
     "spellsADay": "Secondary",
-    "spellsKnown": "$O$313"
+    "spellsKnown": "Spontaneous (Secondary)"
   },
   "Cavalier": {
     "rulebook": "Base",
@@ -127,7 +127,7 @@
     "skills": 6,
     "spellcasting": "wis",
     "spellsADay": "Secondary",
-    "spellsKnown": "$O$313"
+    "spellsKnown": "Spontaneous (Secondary)"
   },
   "Magus": {
     "rulebook": "Base",
@@ -140,7 +140,7 @@
     "skills": 2,
     "spellcasting": "cha",
     "spellsADay": "Secondary",
-    "spellsKnown": "$O$313"
+    "spellsKnown": "Spontaneous (Secondary)"
   },
   "Monk": {
     "rulebook": "Base",
@@ -179,7 +179,7 @@
     "skills": 4,
     "spellcasting": "cha",
     "spellsADay": "Spontaneous",
-    "spellsKnown": "$O$267"
+    "spellsKnown": "Spontaneous (Primary)"
   },
   "Paladin": {
     "rulebook": "Base",
@@ -244,7 +244,7 @@
     "skills": 2,
     "spellcasting": "cha",
     "spellsADay": "Spontaneous",
-    "spellsKnown": "$O$267"
+    "spellsKnown": "Spontaneous (Primary)"
   },
   "Summoner": {
     "rulebook": "Base",
@@ -257,7 +257,7 @@
     "skills": 2,
     "spellcasting": "cha",
     "spellsADay": "Secondary",
-    "spellsKnown": "$O$313"
+    "spellsKnown": "Spontaneous (Secondary)"
   },
   "Witch": {
     "rulebook": "Base",
@@ -270,7 +270,7 @@
     "skills": 2,
     "spellcasting": "int",
     "spellsADay": "Prepared",
-    "spellsKnown": "Familiar"
+    "spellsKnown": "Spellbook/Familiar (Primary)"
   },
   "Wizard": {
     "rulebook": "Base",
@@ -283,7 +283,7 @@
     "skills": 2,
     "spellcasting": "int",
     "spellsADay": "Prepared",
-    "spellsKnown": "Spellbook"
+    "spellsKnown": "Spellbook/Familiar (Primary)"
   },
   "Barbarian (Unchained)": {
     "rulebook": "Base",
@@ -335,7 +335,7 @@
     "skills": 2,
     "spellcasting": "cha",
     "spellsADay": "Secondary",
-    "spellsKnown": "$O$313"
+    "spellsKnown": "Spontaneous (Secondary)"
   },
   "Vigilante": {
     "rulebook": "Base",
