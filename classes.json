@@ -9,7 +9,7 @@
     "will": 0,
     "skills": 4,
     "spellcasting": "int",
-    "spellsADay": "$A$313",
+    "spellsADay": "Secondary",
     "spellsKnown": "Spellbook"
   },
   "Antipaladin": {
@@ -22,7 +22,7 @@
     "will": 1,
     "skills": 2,
     "spellcasting": "cha",
-    "spellsADay": "$A$336",
+    "spellsADay": "Tertiary",
     "spellsKnown": "Divine"
   },
   "Barbarian": {
@@ -34,7 +34,7 @@
     "ref": 0,
     "will": 0,
     "skills": 4,
-    "spellcasting": "",
+    "spellcasting": false,
     "spellsADay": "",
     "spellsKnown": ""
   },
@@ -48,7 +48,7 @@
     "will": 1,
     "skills": 6,
     "spellcasting": "cha",
-    "spellsADay": "$A$313",
+    "spellsADay": "Secondary",
     "spellsKnown": "$O$313"
   },
   "Cavalier": {
@@ -60,7 +60,7 @@
     "ref": 0,
     "will": 0,
     "skills": 4,
-    "spellcasting": "",
+    "spellcasting": false,
     "spellsADay": "",
     "spellsKnown": ""
   },
@@ -74,7 +74,7 @@
     "will": 1,
     "skills": 2,
     "spellcasting": "wis",
-    "spellsADay": "$A$290",
+    "spellsADay": "Prepared",
     "spellsKnown": "Divine"
   },
   "Druid": {
@@ -87,7 +87,7 @@
     "will": 1,
     "skills": 4,
     "spellcasting": "wis",
-    "spellsADay": "$A$290",
+    "spellsADay": "Prepared",
     "spellsKnown": "Divine"
   },
   "Fighter": {
@@ -99,7 +99,7 @@
     "ref": 0,
     "will": 0,
     "skills": 2,
-    "spellcasting": "",
+    "spellcasting": false,
     "spellsADay": "",
     "spellsKnown": ""
   },
@@ -112,7 +112,7 @@
     "ref": 1,
     "will": 0,
     "skills": 4,
-    "spellcasting": "",
+    "spellcasting": false,
     "spellsADay": "",
     "spellsKnown": ""
   },
@@ -126,7 +126,7 @@
     "will": 1,
     "skills": 6,
     "spellcasting": "wis",
-    "spellsADay": "$A$313",
+    "spellsADay": "Secondary",
     "spellsKnown": "$O$313"
   },
   "Magus": {
@@ -139,7 +139,7 @@
     "will": 1,
     "skills": 2,
     "spellcasting": "cha",
-    "spellsADay": "$A$313",
+    "spellsADay": "Secondary",
     "spellsKnown": "$O$313"
   },
   "Monk": {
@@ -151,7 +151,7 @@
     "ref": 1,
     "will": 1,
     "skills": 4,
-    "spellcasting": "",
+    "spellcasting": false,
     "spellsADay": "",
     "spellsKnown": ""
   },
@@ -164,7 +164,7 @@
     "ref": 1,
     "will": 0,
     "skills": 8,
-    "spellcasting": "",
+    "spellcasting": false,
     "spellsADay": "",
     "spellsKnown": ""
   },
@@ -178,7 +178,7 @@
     "will": 1,
     "skills": 4,
     "spellcasting": "cha",
-    "spellsADay": "$A$267",
+    "spellsADay": "Spontaneous",
     "spellsKnown": "$O$267"
   },
   "Paladin": {
@@ -191,7 +191,7 @@
     "will": 1,
     "skills": 2,
     "spellcasting": "cha",
-    "spellsADay": "$A$336",
+    "spellsADay": "Tertiary",
     "spellsKnown": "Divine"
   },
   "Ranger": {
@@ -204,7 +204,7 @@
     "will": 0,
     "skills": 6,
     "spellcasting": "wis",
-    "spellsADay": "$A$336",
+    "spellsADay": "Tertiary",
     "spellsKnown": "Divine"
   },
   "Rogue": {
@@ -216,7 +216,7 @@
     "ref": 1,
     "will": 0,
     "skills": 8,
-    "spellcasting": "",
+    "spellcasting": false,
     "spellsADay": "",
     "spellsKnown": ""
   },
@@ -229,7 +229,7 @@
     "ref": 0,
     "will": 0,
     "skills": 4,
-    "spellcasting": "",
+    "spellcasting": false,
     "spellsADay": "",
     "spellsKnown": ""
   },
@@ -243,7 +243,7 @@
     "will": 1,
     "skills": 2,
     "spellcasting": "cha",
-    "spellsADay": "$A$267",
+    "spellsADay": "Spontaneous",
     "spellsKnown": "$O$267"
   },
   "Summoner": {
@@ -256,7 +256,7 @@
     "will": 1,
     "skills": 2,
     "spellcasting": "cha",
-    "spellsADay": "$A$313",
+    "spellsADay": "Secondary",
     "spellsKnown": "$O$313"
   },
   "Witch": {
@@ -269,7 +269,7 @@
     "will": 1,
     "skills": 2,
     "spellcasting": "int",
-    "spellsADay": "$A$290",
+    "spellsADay": "Prepared",
     "spellsKnown": "Familiar"
   },
   "Wizard": {
@@ -282,7 +282,7 @@
     "will": 1,
     "skills": 2,
     "spellcasting": "int",
-    "spellsADay": "$A$290",
+    "spellsADay": "Prepared",
     "spellsKnown": "Spellbook"
   },
   "Barbarian (Unchained)": {
@@ -294,7 +294,7 @@
     "ref": 0,
     "will": 0,
     "skills": 4,
-    "spellcasting": "",
+    "spellcasting": false,
     "spellsADay": "",
     "spellsKnown": ""
   },
@@ -307,7 +307,7 @@
     "ref": 1,
     "will": 0,
     "skills": 4,
-    "spellcasting": "",
+    "spellcasting": false,
     "spellsADay": "",
     "spellsKnown": ""
   },
@@ -320,7 +320,7 @@
     "ref": 1,
     "will": 0,
     "skills": 8,
-    "spellcasting": "",
+    "spellcasting": false,
     "spellsADay": "",
     "spellsKnown": ""
   },
@@ -334,7 +334,7 @@
     "will": 1,
     "skills": 2,
     "spellcasting": "cha",
-    "spellsADay": "$A$313",
+    "spellsADay": "Secondary",
     "spellsKnown": "$O$313"
   },
   "Vigilante": {
@@ -346,7 +346,7 @@
     "ref": 1,
     "will": 1,
     "skills": 6,
-    "spellcasting": "",
+    "spellcasting": false,
     "spellsADay": "",
     "spellsKnown": ""
   }
